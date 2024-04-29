@@ -9,10 +9,11 @@ I study at [ATU](https://www.atu.ie).
 
 **About this project**
 
+This notebook contain my analysis of the famous penguins dataset.
 
 **Use of this project**
 
-
+This project
 
 **Getting started**
 
