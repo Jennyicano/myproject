@@ -1,8 +1,8 @@
 # My Project
 
-**by Jennifer Ibanez Cano**
+**Module Principles of Data Analytics, teacher Ian McLoughlin.**
 
-I study at [ATU](https://www.atu.ie).
+**Student of Higher Diploma in Science in Data Analytics at the [ATU Galwa](https://www.atu.ie), 2024.**
 
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
