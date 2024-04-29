@@ -10,24 +10,24 @@ I study at [ATU](https://www.atu.ie).
 **About this project
 
 
-**Use of this project
+**Use of this project**
 
 
 
-**Getting started
+**Getting started**
 
 
 
-**Get help
+**Get help**
 
 
 
-**Contribute
+**Contribute**
 
 
-**Author
+**Author**
 
 
 
-**References
+**References**
 
