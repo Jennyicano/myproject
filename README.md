@@ -6,6 +6,8 @@ I study at [ATU](https://www.atu.ie).
 
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
+Module Principles of Data Analytics.
+
 
 **About this project**
 
@@ -35,16 +37,21 @@ The tools that I needed to intall in my computer to complete the module tasks an
 * Create a [GitHub](https://github.com) account. 
 * Create the [ssh keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
-**Get help**
-
-
-
 **Contribute**
 
+Anybody is welcome to contribute in this notebook, and also report any issue that can be found. 
 
 **Author**
 
-
+I'm Jenny, a student of the Higher Diploma in Science in Data Analytics at the ATU Galway. I'm taking the course part time. Also I'm working as an Annotation Analyst at Apple and I'm a new mom.
 
 **References**
 
+Below are the references and sources that I used to complete this project.
+
+* [w3schools Tutorials](https://www.w3schools.com/python/default.asp)
+* [Real Python](https://realpython.com)
+* [Numpy.corrcoef](https://numpy.org/doc/stable/reference/generated/numpy.corrcoef.html)
+* [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Teacher Ian McLoughlin GitHub](https://github.com/ianmcloughlin/mywork)
+* [Matplotlib Pyplot](https://www.w3schools.com/python/matplotlib_pyplot.asp)
