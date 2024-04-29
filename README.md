@@ -6,8 +6,6 @@
 
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 
-Module Principles of Data Analytics.
-
 
 **About this project**
 
